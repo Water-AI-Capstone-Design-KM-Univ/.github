@@ -8,7 +8,7 @@
 
 - 8조: 서울시의 미래 용수수요 또는 변화예측, 변화에 대한 대응방안: [8조 Repository](https://github.com/Water-AI-Capstone-Design-KM-Univ/group-8)
 
-에 대한 과제수행 및 공유를 위한 공간입니다.
+에 대한 과제수행 및 공유를 위한 공간입니다. 조별 과제명 옆의 Repository Link를 클릭해주세요.
 
 <!--
 
