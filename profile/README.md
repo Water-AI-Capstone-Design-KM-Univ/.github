@@ -2,11 +2,11 @@
 
 본 Repository는 
 
-- 2조: CCTV와 같은 신기술을 이용한 하천의 수위변화 측정방법: [2조 Repository](https://github.com/Water-AI-Capstone-Design-KM-Univ/group-2))
+- 2조: CCTV와 같은 신기술을 이용한 하천의 수위변화 측정방법: [2조 Repository](https://github.com/Water-AI-Capstone-Design-KM-Univ/group-2)
 
-- 5조: 드론영상을 이용한 콘트리트 댐의 크랙추출방법
+- 5조: 드론영상을 이용한 콘트리트 댐의 크랙추출방법: [5조 Repository](https://github.com/Water-AI-Capstone-Design-KM-Univ/group-5)
 
-- 8조: 서울시의 미래 용수수요 또는 변화예측, 변화에 대한 대응방안
+- 8조: 서울시의 미래 용수수요 또는 변화예측, 변화에 대한 대응방안: [8조 Repository](https://github.com/Water-AI-Capstone-Design-KM-Univ/group-8)
 
 에 대한 과제수행 및 공유를 위한 공간입니다.
 
