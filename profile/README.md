@@ -2,7 +2,7 @@
 
 본 Repository는 
 
-- 2조: CCTV와 같은 신기술을 이용한 하천의 수위변화 측정방법
+- 2조: CCTV와 같은 신기술을 이용한 하천의 수위변화 측정방법: [2조 Repository](https://github.com/Water-AI-Capstone-Design-KM-Univ/group-2))
 
 - 5조: 드론영상을 이용한 콘트리트 댐의 크랙추출방법
 
